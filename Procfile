@@ -1,0 +1,1 @@
+web: gunicorn avatar_test.wsgi
